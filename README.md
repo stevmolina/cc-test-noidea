@@ -1,10 +1,12 @@
-# Proof of Thanks: Stellar starter 💜
+# cc-test-noidea: Proof of Thanks on Stellar 💜
 
 Leave a public thank-you note on **Stellar Testnet**, signed with your wallet. No real money.
 
+**Live:** https://stevmolina.github.io/cc-test-noidea/ · Contract: [CA623GLQ…3ES3](https://stellar.expert/explorer/testnet/contract/CA623GLQOFXGY2NENM5DG6RI64SC7VD226SXQ3AYR2AESRF7CHGI3ES3)
+
 Built for **The Commit Club** at BAF × Stellar: Proof of Gratitude. Use it as-is or as the base for your own idea.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stevmolina/proof-of-thanks-starter)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stevmolina/cc-test-noidea)
 
 ## What's inside
 
